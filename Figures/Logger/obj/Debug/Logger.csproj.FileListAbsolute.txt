@@ -1,0 +1,10 @@
+F:\с#\home_20172301\Logger\bin\Debug\Logger.dll
+F:\с#\home_20172301\Logger\bin\Debug\Logger.pdb
+F:\с#\home_20172301\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+F:\с#\home_20172301\Logger\obj\Debug\Logger.dll
+F:\с#\home_20172301\Logger\obj\Debug\Logger.pdb
+F:\с#\Figures\Logger\bin\Debug\Logger.dll
+F:\с#\Figures\Logger\bin\Debug\Logger.pdb
+F:\с#\Figures\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+F:\с#\Figures\Logger\obj\Debug\Logger.dll
+F:\с#\Figures\Logger\obj\Debug\Logger.pdb
